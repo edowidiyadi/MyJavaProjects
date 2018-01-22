@@ -1,0 +1,2 @@
+SkrivaUtMeddelanden.SkrivaUtMeddelanden
+SkrivaUtMeddelanden.Meddelande
