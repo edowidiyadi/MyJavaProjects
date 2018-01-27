@@ -11,7 +11,7 @@ package veckouppgift1;
  */
 class Person {
 
-    private String en; //Efternamn
+    private String en; //Efternamnet
     private String fn; //Förnamn
     private String pnr;//Personnummer
 
